@@ -17,8 +17,9 @@ I'm Theda!
       I analyzed and made a Prediction Model to recommend countries to live in based on the 2019 World Happiness Report 
        
  https://front-end-4ljyma93z.vercel.app/
-    ```^ Check out this Medical Marijuana Machine Learning web app! (see Pinned Repository below!) 
-         After a user inputs symptoms, etc- the app suggests strains to treat them! 
+    
+    ^ Check out this Medical Marijuana Machine Learning web app! (see Pinned Repository below!) 
+      After a user inputs symptoms, etc- the app suggests strains to treat them! 
  
  • I am a multi-media artist and educator 
 
