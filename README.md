@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Theda! 
+I'm Theda! My Last name is Un-PRO-NOUNCE-a'-bLE to Most!
 
     I am a visionary creator studying Data Science and Full Stack Computer Programming.  As a staunch environmentalist,
     I started an Upcycling Program in my community, and aim to improve the plights of living beings in any way I can!
@@ -21,13 +21,13 @@ I'm Theda!
     ^ Check out this Medical Marijuana Machine Learning web app! (see Pinned Repository below!) 
       After a user inputs symptoms, etc- the app suggests strains to treat them! 
  
- • I am a multi-media artist and educator 
+ • Invented Tayda Schpake "...an evolution of the English language <3" ~Riot Games, Erudis Games (D'c0dr apP to coME!)
 
  • I can lead 5.8 outdoor Rock Climbing and am an avid Health/Fitness Advocate Foodie   
  
- • 🤔 I’m looking to collaborate on software, hardware, and art projects
+ • 🤔 I’m looking to collaborate on software, hardware, and art projects; I am a multi-media artist and educator 
 
- 💬 Ask me about anything you wish: 📫 thedatech1@gmail.com
+ 💬 Ask me about anything you wish:     -->  📫 thedatech1@gmail.com
  
 <!--
 **LambdaTheda/LambdaTheda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
