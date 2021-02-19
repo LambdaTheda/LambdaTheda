@@ -1,7 +1,9 @@
 ### Hi there 👋
 I'm Theda! 
 
-    I am a visionary creator studying Data Science and Full Stack Computer Programming.  As a staunch environmentalist, I started an Upcycling Program in my community, and aim to improve the plights of living beings in any way I can! I dream of Robots, Adaptive Devices, producing those or everyday household goods, inventing or/and optimizing anywhere along the supply chain.
+    I am a visionary creator studying Data Science and Full Stack Computer Programming.  As a staunch environmentalist,
+    I started an Upcycling Program in my community, and aim to improve the plights of living beings in any way I can!
+    I dream of Robots, Adaptive Devices, producing those or everyday household goods, inventing or/and optimizing anywhere along the supply chain.
  
  • I’m currently working on CitySpire web Application - 
    an app that analyzes data from cities such as populations, cost of living, rental rates, crime rates, park (walk score), and many  
