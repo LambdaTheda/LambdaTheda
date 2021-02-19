@@ -21,7 +21,7 @@ I'm Theda! My Last name is Un-PRO-NOUNCE-a'-bLE to Most!
     ^ Check out this Medical Marijuana Machine Learning web app! (see Pinned Repository below!) 
       After a user inputs symptoms, etc- the app suggests strains to treat them! 
  
- • Invented Tayda Schpake "...an evolution of the English language <3" ~Riot Games, Erudis Games (D'c0dr apP to coME!)
+ • ~2014, oi eEnVntd Tayda Schpake "...an evolution of the English language <3" ~Riot Games, Erudis Games (D'c0dr apP to coME!)
 
  • I can lead 5.8 outdoor Rock Climbing and am an avid Health/Fitness Advocate Foodie   
  
@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: thedatech1@gmail.com
 - 😄 Pronouns: she, we, I
 -->
-- ⚡ Fun fact: 
+⚡ Fun fact: 
  Pandas can spend up to 13 hours each day eating, mostly bamboo.  They eat up to a third of their body weight...
