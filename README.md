@@ -15,7 +15,7 @@ I'm Theda!
   
   https://lambdatheda.github.io/happinessBlog/?fbclid=IwAR1BxzZlP8lt6phlH0cRfCMTc0EmDT9mRel55TTPtSlPJCCLR9fZ0blC1Eg
   
-    - Check out this Medium BLog I made!  (see Pinned Repository below!) 
+    ^ Check out this Medium BLog I made!  (see Pinned Repository below!) 
        I analyzed and made a Prediction Model to recommend countries to live in based on the 2019 World Happiness Report 
        
  • I am a multi-media artist and educator 
