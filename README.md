@@ -18,6 +18,10 @@ I'm Theda!
     ^ Check out this Medium BLog I made!  (see Pinned Repository below!) 
        I analyzed and made a Prediction Model to recommend countries to live in based on the 2019 World Happiness Report 
        
+ https://front-end-4ljyma93z.vercel.app/
+    ^ Check out this Medical Marijuana Machine Learning web app! (see Pinned Repository below!) 
+      After a user inputs symptoms, etc- the app suggests strains to treat them! 
+ 
  • I am a multi-media artist and educator 
 
  • I can lead 5.8 outdoor Rock Climbing and am an avid Health/Fitness Advocate Foodie   
