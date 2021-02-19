@@ -6,6 +6,7 @@ I'm Theda!
     I dream of Robots, Adaptive Devices, producing those or everyday household goods, inventing or/and optimizing anywhere along the supply chain.
  
  • I’m currently working on CitySpire web Application - 
+ 
       an app that analyzes data from cities such as populations, cost of living, rental rates, crime rates, park (walk score), and many  
       other social and economic factors that are important in deciding where someone would like to live.
    
