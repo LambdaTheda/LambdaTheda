@@ -8,7 +8,7 @@ I'm Theda!
  
  • I’m currently working on CitySpire web Application - (see Pinned Repository below!)
  
-      an app that analyzes data from cities such as populations, cost of living, rental rates, crime rates, park (walk score), and many  
+      It's an app that analyzes data from cities such as populations, cost of living, rental rates, crime rates, park (walk score), and many  
       other social and economic factors that are important in deciding where someone would like to live.
       
   https://lambdatheda.github.io/happinessBlog/?fbclid=IwAR1BxzZlP8lt6phlH0cRfCMTc0EmDT9mRel55TTPtSlPJCCLR9fZ0blC1Eg
