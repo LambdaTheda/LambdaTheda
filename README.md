@@ -25,7 +25,7 @@ I'm Theda! My Last name is Un-PRO-NOUNCE-a'-bLE to Most!
 
  • I can lead 5.8 outdoor Rock Climbing and am an avid Health/Fitness Advocate Foodie   
  
- • 🤔 I’m looking to collaborate on software, hardware, and art projects; I am a multi-media artist and educator 
+ • 🤔 Will collaborate on software, hardware, and art projects; I am a multi-media SchmARTest unDz educator 
  
  =^..^=   =^..^=   =^..^=    =^..^=    =^..^=    =^..^=    =^..^=  =^..^=   =^..^=   =^..^=    =^..^=    =^..^=    =^..^=    =^..^=
 
@@ -47,4 +47,5 @@ Here are some ideas to get you started:
 -->
 
 ⚡ Fun fact: 
- Pandas can spend up to 13 hours each day eating, mostly bamboo.  They eat up to a third of their body weight...
+ Pandas can spend up to 13 hours each day eating, mostly bamboo.  
+ They eat up to a third of their body weight...
