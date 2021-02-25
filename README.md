@@ -12,6 +12,8 @@ I'm Theda! My Last name is Un-PRO-NOUNCE-a'-bLE to Most!
       other social and economic factors that are important in deciding where someone would like to live.
       
   https://lambdatheda.github.io/happinessBlog/?fbclid=IwAR1BxzZlP8lt6phlH0cRfCMTc0EmDT9mRel55TTPtSlPJCCLR9fZ0blC1Eg
+
+https://medium.com/@ureknew/to-catch-a-pokemon-f577c441e156#6a1e-e71aa2bd7612
   
     ^ Check out this Medium BLog I made!  (see Pinned Repository below!) 
       I analyzed and made a Prediction Model to recommend countries to live in based on the 2019 World Happiness Report 
